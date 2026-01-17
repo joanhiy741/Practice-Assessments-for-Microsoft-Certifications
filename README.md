@@ -1,2 +1,6 @@
 # Practice-Assessments-for-Microsoft-Certifications
-Are you preparing for a Microsoft Certification exam? We’re excited to announce Practice Assessments on Microsoft Learn, our newest free exam preparation resource that allows you to assess your knowledge and fill knowledge gaps so that you are better prepared for your certification exam.
+Are you preparing for a [Microsoft Certification exam](https://www.dumpsora.com/)? We’re excited to announce Practice Assessments on Microsoft Learn, our newest free exam preparation resource that allows you to assess your knowledge and fill knowledge gaps so that you are better prepared for your certification exam.
+
+These assessments provide you with an overview of the style, wording, and difficulty of the questions you’re likely to experience on the exam. Through these assessments, you’re able to assess your readiness, determine where additional preparation is needed, and fill knowledge gaps bringing you one step closer to the likelihood of passing your exam.
+
+These questions are not the same as what you will see on the exam nor is this document illustrative of the length of the exam or its complexity. For example, you may see additional question types, multiple case studies, and labs. These questions are examples only to provide insight into what to expect on the exam and help you determine if additional preparation is required. Taking a Practice Assessment is not a replacement for training taken or experience using Microsoft products.
